@@ -1,4 +1,4 @@
-from opencv import cv2
+import cv2
 from model import FacialExpressionModel
 import numpy as np
 
