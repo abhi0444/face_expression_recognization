@@ -1,11 +1,21 @@
-# facial_expression-recognization-web-app
+# Facial_expression-recognization-web-app
 
-# Step 1 
+``Can Recognize following expressions - Angry, Disgust, Fear, Happy, Neutral, Sad, and Surprise.``
 
-``run requirements.txt -> pip3 install -r requirements.txt``
+# Step 1
+
+Clone the repo -> ``git clone https://github.com/abhi0444/facial_expression-recognization-web-app``
+
+# Step 2
+
+Change Directory -> ``cd facial_expression-recognization-web-app``
+
+Install requirements -> ``pip3 install -r requirements.txt``
 
 After installing all specified requirements
 
 # Step 2
 
-``run main file -> python3 main.py``
+Run app main file -> ``python3 main.py``
+
+
